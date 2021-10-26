@@ -1,0 +1,21 @@
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..a46d66d
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1 @@
++someFile.env
+diff --git a/FileB.txt b/FileB.txt
+new file mode 100644
+index 0000000..d6a22be
+--- /dev/null
++++ b/FileB.txt
+@@ -0,0 +1 @@
++B sentence
+diff --git a/FileC.txt b/FileC.txt
+new file mode 100644
+index 0000000..d88271c
+--- /dev/null
++++ b/FileC.txt
+@@ -0,0 +1 @@
++C sentence
