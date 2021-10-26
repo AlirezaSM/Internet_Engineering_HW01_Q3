@@ -1,1 +1,2 @@
 C sentence
+new sentence
